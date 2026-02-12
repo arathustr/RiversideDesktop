@@ -1,0 +1,26 @@
+# Node / Vite / Electron
+node_modules/
+dist/
+dist-electron/
+.vite/
+release/
+release*/
+tmp/
+github-export/
+*.zip
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Env
+.env
+.env.*
